@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
-  <dc:creator>The Bootstrap Authors,  Twitter Inc.</dc:creator>
-  <dc:description>The most popular front-end framework for developing responsive, mobile first projects on the web.</dc:description>
-  <dc:identifier>bootstrap</dc:identifier>
-  <version>4.6.1</version>
-  <keywords>css mobile-first responsive front-end framework web</keywords>
-  <lastModifiedBy>NuGet, Version=5.11.0.10, Culture=neutral, PublicKeyToken=31bf3856ad364e35;Microsoft Windows NT 10.0.19041.0;.NET Framework 4.7.2</lastModifiedBy>
-</coreProperties>
